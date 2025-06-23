@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "vertrigo";
+$password = "root";
 $dbname = "gps"; // Nome do banco de dados
 
 // Criação da conexão
